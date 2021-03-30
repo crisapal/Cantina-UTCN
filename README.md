@@ -3,7 +3,7 @@ An app to facilitate student's access to the University's Restaurant in pandemic
 
 
 Main technical features:\
-\
+
 - Layered Architecture for a better modularization
 - JavaFX - a modern approach for building Graphical User Interfaces
 - A food order will be sent using a mail API: https://mailtrap.io/
