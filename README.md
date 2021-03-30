@@ -2,7 +2,7 @@
 An app to facilitate student's access to the University's Restaurant in pandemic times.
 
 
-Main technical features:\
+Main technical features:
 
 - Layered Architecture for a better modularization
 - JavaFX - a modern approach for building Graphical User Interfaces
