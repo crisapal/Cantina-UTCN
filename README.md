@@ -1,7 +1,7 @@
 # Cantina-UTCN FX
 An app to facilitate student's access to the University's Restaurant in pandemic times.
 
-
+ ![CanteenReg](https://github.com/crisapal/Cantina-UTCN/blob/main/Assets/proj.gif)
 Main technical features:
 
 - Layered Architecture for a better modularization
